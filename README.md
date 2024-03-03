@@ -1,5 +1,7 @@
 # Fibonacci
 bash calculating the position of a number if exist in Fibonacci sequence
+maximum position 92
+max value 9223300000000000000
 
 # STEP 1 Open Linux Terminal (we used Windows Ubuntu Terminal)
 

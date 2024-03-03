@@ -15,6 +15,6 @@ After create the file and paste the script  press Ctrl+C for finish writing into
 
 ![image](https://github.com/SomeoneEl5e/Fibonacci/assets/93217023/bc85c01b-65b4-4bdf-93e9-9bbfbf62a7c4)
 
-# STEP 4 run our script
+# STEP 4 Run our script
 
 ![image](https://github.com/SomeoneEl5e/Fibonacci/assets/93217023/1da8a821-f3b7-42ee-8623-c2a1a59fe54a)
